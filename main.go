@@ -7,7 +7,7 @@ import (
 
 func main() {
 	l := new(listing.Listing)
-	fmt.Println(l)
+	fmt.Println(l.Price)
 
 	return
 }

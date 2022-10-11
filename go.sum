@@ -1,2 +1,4 @@
-github.com/hothero/generated-protos v0.0.0-20221011154450-41e4c242c4d4 h1:6d+P/b6pQCJjvxoHJ+xfgTSkPs+hCVZUDINnsMMzoEo=
-github.com/hothero/generated-protos v0.0.0-20221011154450-41e4c242c4d4/go.mod h1:8XApWsg6fCiyR/iL0BSymIlcV/BAfLtElPUAL+7GDr4=
+github.com/hothero/generated-protos v0.0.0-20221011160017-2cc22fec7e37 h1:ZK4ayAYG19tn5V4PQ1EWFRq/kivcAD2vWP+UwVIJkes=
+github.com/hothero/generated-protos v0.0.0-20221011160017-2cc22fec7e37/go.mod h1:HHxvssXcfT7q7Y69tFmwpdvTlDpGsjo1yeF4/TEyds8=
+github.com/shopspring/decimal v1.3.1 h1:2Usl1nmF/WZucqkFZhnfFYxxxu8LG21F6nPQBE5gKV8=
+github.com/shopspring/decimal v1.3.1/go.mod h1:DKyhrW/HYNuLGql+MJL6WCR6knT2jwCFRcu2hWCYk4o=
